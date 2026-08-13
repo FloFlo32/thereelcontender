@@ -39,8 +39,8 @@ export function Navbar() {
           className={cn(
             "flex h-16 items-center justify-between rounded-2xl border px-3 pl-4 transition-all duration-300 sm:px-4",
             scrolled
-              ? "border-border/70 bg-card/90 shadow-lg shadow-primary/5 backdrop-blur-xl"
-              : "border-transparent bg-card/60 backdrop-blur-md"
+              ? "border-border/60 bg-background/30 shadow-lg shadow-primary/5 backdrop-blur-xl"
+              : "border-transparent bg-transparent"
           )}
         >
           <Link href="/" className="flex items-center gap-2.5 shrink-0 cursor-pointer">
