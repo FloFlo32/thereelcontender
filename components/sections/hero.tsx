@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { ArrowRight, Anchor, Users, Clock } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { GridPattern } from "@/components/magic/grid-pattern";
+import { AuroraBackground } from "@/components/magic/aurora-background";
 import { Reveal } from "@/components/magic/reveal";
 
 const chips = [
@@ -14,7 +14,11 @@ const chips = [
 export function Hero() {
   return (
     <section className="relative overflow-hidden">
-      <GridPattern className="opacity-70" />
+      <div
+        aria-hidden
+        className="absolute inset-0 -z-20 bg-gradient-to-br from-primary/15 via-background to-accent-warm/15"
+      />
+      <AuroraBackground className="opacity-80" />
 
       <div className="container-px mx-auto grid max-w-6xl items-center gap-12 pt-14 pb-20 sm:pt-20 sm:pb-28 lg:grid-cols-[1.05fr_1fr] lg:gap-10">
         <div>
