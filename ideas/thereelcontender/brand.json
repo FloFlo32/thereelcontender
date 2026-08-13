@@ -1,0 +1,199 @@
+{
+  "source": "https://thereelcontender.com/",
+  "ingestedFromHost": "thereelcontender.com",
+  "pagesCrawled": 13,
+  "name": "The Reel Contender",
+  "tagline": "The Reel Contender – Panama City, Florida Fishing Charter",
+  "description": "",
+  "domain": "thereelcontender.com",
+  "brandColor": {
+    "hex": "#4d7de1",
+    "src": "css-frequency",
+    "oklchHue": 263
+  },
+  "theme": {
+    "hue": 263
+  },
+  "fonts": [],
+  "logo": "assets/logo.webp",
+  "logoNote": null,
+  "favicon": "https://thereelcontender.com/wp-content/uploads/2020/12/cropped-20160623_163843-scaled-1-180x180.jpg",
+  "images": [
+    "/ingested/thereelcontender/img-001.webp",
+    "/ingested/thereelcontender/img-002.webp",
+    "/ingested/thereelcontender/img-003.gif",
+    "/ingested/thereelcontender/img-004.webp",
+    "/ingested/thereelcontender/img-005.webp",
+    "/ingested/thereelcontender/img-006.webp",
+    "/ingested/thereelcontender/img-007.webp",
+    "/ingested/thereelcontender/img-008.webp",
+    "/ingested/thereelcontender/img-009.webp",
+    "/ingested/thereelcontender/img-010.webp",
+    "/ingested/thereelcontender/img-011.webp",
+    "/ingested/thereelcontender/img-012.webp",
+    "/ingested/thereelcontender/img-013.webp",
+    "/ingested/thereelcontender/img-014.webp",
+    "/ingested/thereelcontender/img-015.webp",
+    "/ingested/thereelcontender/img-016.webp",
+    "/ingested/thereelcontender/img-017.webp",
+    "/ingested/thereelcontender/img-018.webp",
+    "/ingested/thereelcontender/img-019.webp",
+    "/ingested/thereelcontender/img-020.webp",
+    "/ingested/thereelcontender/img-021.webp",
+    "/ingested/thereelcontender/img-022.webp",
+    "/ingested/thereelcontender/img-023.webp",
+    "/ingested/thereelcontender/img-024.webp",
+    "/ingested/thereelcontender/img-025.webp",
+    "/ingested/thereelcontender/img-026.webp",
+    "/ingested/thereelcontender/img-027.webp",
+    "/ingested/thereelcontender/img-028.webp",
+    "/ingested/thereelcontender/img-029.webp",
+    "/ingested/thereelcontender/img-030.webp",
+    "/ingested/thereelcontender/img-031.webp",
+    "/ingested/thereelcontender/img-032.webp",
+    "/ingested/thereelcontender/img-033.webp",
+    "/ingested/thereelcontender/img-034.webp",
+    "/ingested/thereelcontender/img-035.webp",
+    "/ingested/thereelcontender/img-036.webp",
+    "/ingested/thereelcontender/img-037.webp",
+    "/ingested/thereelcontender/img-038.webp",
+    "/ingested/thereelcontender/img-039.webp",
+    "/ingested/thereelcontender/img-040.webp",
+    "/ingested/thereelcontender/img-041.webp",
+    "/ingested/thereelcontender/img-042.webp",
+    "/ingested/thereelcontender/img-043.webp",
+    "/ingested/thereelcontender/img-044.webp",
+    "/ingested/thereelcontender/img-045.webp",
+    "/ingested/thereelcontender/img-046.webp",
+    "/ingested/thereelcontender/img-047.webp",
+    "/ingested/thereelcontender/img-048.webp",
+    "/ingested/thereelcontender/img-049.webp",
+    "/ingested/thereelcontender/img-050.webp",
+    "/ingested/thereelcontender/img-051.webp",
+    "/ingested/thereelcontender/img-052.webp",
+    "/ingested/thereelcontender/img-053.webp",
+    "/ingested/thereelcontender/img-054.webp",
+    "/ingested/thereelcontender/img-055.webp"
+  ],
+  "imageCount": 55,
+  "social": {},
+  "whatsapp": null,
+  "phone": null,
+  "location": null,
+  "sectionOrder": [
+    "The Reel Contender",
+    "ABOUT THE OWNERS"
+  ],
+  "navItems": [
+    {
+      "text": "Panama City, Florida Fishing Charter Home Photos FAQ Contact Close Menu",
+      "url": "https://thereelcontender.com/undefined",
+      "path": "/undefined"
+    },
+    {
+      "text": "Photos",
+      "url": "https://thereelcontender.com/photos/",
+      "path": "/photos"
+    },
+    {
+      "text": "FAQ",
+      "url": "https://thereelcontender.com/frequently-asked-questions/",
+      "path": "/frequently-asked-questions"
+    },
+    {
+      "text": "Contact",
+      "url": "https://thereelcontender.com/contact/",
+      "path": "/contact"
+    }
+  ],
+  "footerItems": [
+    {
+      "text": "Photos",
+      "url": "https://thereelcontender.com/photos/",
+      "path": "/photos"
+    },
+    {
+      "text": "FAQ",
+      "url": "https://thereelcontender.com/frequently-asked-questions/",
+      "path": "/frequently-asked-questions"
+    },
+    {
+      "text": "Contact",
+      "url": "https://thereelcontender.com/contact/",
+      "path": "/contact"
+    }
+  ],
+  "innerPages": [
+    {
+      "path": "/photos/",
+      "title": "Photos – The Reel Contender",
+      "sections": []
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "title": "Frequently Asked Questions – The Reel Contender",
+      "sections": [
+        "Frequently Asked Questions Things you need to know when fishing on The Reel Contender",
+        "FAQ"
+      ]
+    },
+    {
+      "path": "/contact/",
+      "title": "Contact – The Reel Contender",
+      "sections": [
+        "Contact",
+        "Contact Us:",
+        "850-259-2789"
+      ]
+    },
+    {
+      "path": "/contact",
+      "title": "Contact – The Reel Contender",
+      "sections": [
+        "Contact",
+        "Contact Us:",
+        "850-259-2789"
+      ]
+    },
+    {
+      "path": "/photos/",
+      "title": "Photos – The Reel Contender",
+      "sections": []
+    },
+    {
+      "path": "/photos/",
+      "title": "Photos – The Reel Contender",
+      "sections": []
+    },
+    {
+      "path": "/photos/",
+      "title": "Photos – The Reel Contender",
+      "sections": []
+    },
+    {
+      "path": "/photos/",
+      "title": "Photos – The Reel Contender",
+      "sections": []
+    },
+    {
+      "path": "/photos/",
+      "title": "Photos – The Reel Contender",
+      "sections": []
+    },
+    {
+      "path": "/photos/",
+      "title": "Photos – The Reel Contender",
+      "sections": []
+    },
+    {
+      "path": "/photos/",
+      "title": "Photos – The Reel Contender",
+      "sections": []
+    },
+    {
+      "path": "/photos/",
+      "title": "Photos – The Reel Contender",
+      "sections": []
+    }
+  ]
+}
